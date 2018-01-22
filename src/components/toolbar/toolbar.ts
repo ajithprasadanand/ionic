@@ -68,7 +68,7 @@ import { ToolbarBase } from './toolbar-base';
  *     <ion-title>I'm a subheader</ion-title>
  *   </ion-toolbar>
  *
- * <ion-header>
+ * </ion-header>
  *
  *
  * <ion-content>
